@@ -24,7 +24,7 @@ git clone https://github.com/SubkhanM/calculator-html-css-js
 
 Navigate to the project folder:
 
-cd simple-calculator
+cd calculator-html-css-js
 
 Open index.html in your browser:
 
