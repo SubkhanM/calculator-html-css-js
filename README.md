@@ -20,7 +20,7 @@ Installation and Usage
 
     Clone the repository:
 
-git clone https://github.com/your-username/simple-calculator.git
+git clone https://github.com/SubkhanM/calculator-html-css-js
 
 Navigate to the project folder:
 
